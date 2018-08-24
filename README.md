@@ -1,8 +1,8 @@
 /*
 
    Author:: Raj Mehrotra
-
    Date:: 25-08-2018
+   
 */
  
 The famous Cats-vs-Dogs dataset. 
